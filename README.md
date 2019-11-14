@@ -1,8 +1,8 @@
 # Must Albums
 
 
-- [ ] The Beatles - White Album
-- [ ] Bob Dylan - Blood on the tracks
+- [x] The Beatles - White Album
+- [x] Bob Dylan - Blood on the tracks
 - [ ] Fleetwood Mac - Tusk
 - [ ] Supertrap - Crisis what crisis
 - [ ] John Lennon - Plastic ono band
@@ -37,4 +37,4 @@
 - [ ] Abba - Arrival
 - [ ] ELO - Out of the blue
 - [ ] Traffic - When the eagle flies
-- [ ] Stevie wonder- Songs in the key of life
+- [x] Stevie wonder- Songs in the key of life
