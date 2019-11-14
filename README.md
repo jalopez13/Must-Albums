@@ -1,4 +1,6 @@
-# Must Albums
+### Albums
+
+List of the best albums from varius artists I must listen to!
 
 
 - [x] The Beatles - White Album
